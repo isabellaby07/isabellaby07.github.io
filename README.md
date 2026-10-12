@@ -3,7 +3,7 @@ I am studying Environmental Science at Riverside City College. I would like to u
 
 ---
 ## Disease Mapping
-! The disease mapping lab went over Covid-19 rates, counts, and population density layers to see how they may be correlation or causation. We see that with largely populated areas have larger counts of Covid-19 cases. However the rates are higher in less populated areas. (images/yourfile.png)
+! The disease mapping lab went over Covid-19 rates, counts, and population density layers to see how they may be correlation or causation. We see that with largely populated areas have larger counts of Covid-19 cases. However the rates are higher in less populated areas. (images/Screenshot 2026-10-11 073022.png)
 
 **Question:** The geographic question that this map answers is which areas had the highest rates of Covid-19 Cases and which areas had the most Covid-19 Cases. 
 **Data:** Covid-19 ZCTA, GGA Admin, 2024, ArcGis Online Portal 
@@ -12,7 +12,7 @@ I am studying Environmental Science at Riverside City College. I would like to u
 **A limitation of this map:** The limitation of this map would be that the size of the circles for the Covid-19 counts did not have a number set that correlated to a certain size so you could not get specific with it, just generalized information. 
 
 ## Kilauea Eruption Event 2018
-! This map showcases the progression of the eruption of Kilauea Volcano in 2018. It starts off as a pretty large area of lava as of 7/17/2018, reaching into the ocean and far inland. Then in 8/2/2018 it still reaches far inland and to the coast but the width of the lava has greatly decreased. Then finally in 2/26/2019 we see the aftermath and how the environment looks as a result.  (images/yourotherfile.png)
+! This map showcases the progression of the eruption of Kilauea Volcano in 2018. It starts off as a pretty large area of lava as of 7/17/2018, reaching into the ocean and far inland. Then in 8/2/2018 it still reaches far inland and to the coast but the width of the lava has greatly decreased. Then finally in 2/26/2019 we see the aftermath and how the environment looks as a result.  (images/Screenshot 2026-10-11 072932.png)
 **Question:** The geographic question that this map answers is how a volcanic eruption flows due to the landscape and how it affects the vegetation. 
 **Data:** Kilauea 2018 Lava Flow Extents, Esri Tools, 2021 , ArcGis Online Portal
 **Method:** In this lab I found all the layers for each date of interest of the eruption and added it to the map. After that I had to edit the layers in order to be able to see the lava more visibly through some of the cloud cover. 
